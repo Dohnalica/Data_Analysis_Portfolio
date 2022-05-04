@@ -15,10 +15,14 @@ This is a repository to showcase skills, share projects and track my progress.
 ## Table of contents
 * About
 * Portfolio Projects
+* Study Projects
 * Certificates
 * Contacts
 
 ## Portfolio Projects
+
+## Study Projects
+In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses.
 
 ## Certificates
 ### In progress: 
