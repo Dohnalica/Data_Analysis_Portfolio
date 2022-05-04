@@ -28,6 +28,7 @@ This is a repository to showcase skills, share projects and track my progress.
     * [Python Data Structures](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1LcXq7BiSZ465PKw?e=2upSMc) (Coursera)
   * 100 Days of Code: The Complete Python Pro Bootcamp for 2022 (Udemy)
   * PostgreSQL for Everybody Specialization (Coursera)
+  * Applied Data Science Lab (WorldQuant University)
   * Essential English for Business Professionals Specialization (Coursera)
   * Google Project Management: Professional Certificate (Coursera)
 ### Finished:
