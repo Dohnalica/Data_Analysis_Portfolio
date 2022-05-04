@@ -27,6 +27,7 @@ In this section I will provide links to my github repositories containing code a
 ## Certificates
 ### In progress: 
   * Modern Big Data Analysis with SQL Specialization (Coursera)
+  * CS50's Introduction to Programming with Python (HarvardX CS50P)
   * Python for Everybody Specialization (Coursera)
     * [Programming for Everybody (Getting Started with Python)](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1Erj8wd8rs9wljzA?e=BQQ4vc) (Coursera)
     * [Python Data Structures](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1LcXq7BiSZ465PKw?e=2upSMc) (Coursera)
