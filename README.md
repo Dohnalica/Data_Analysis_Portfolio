@@ -42,6 +42,7 @@ This is a repository to showcase skills, share projects and track my progress.
 * [Exploratory Data Analysis in R](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1QnXWb2gjBFdNt3Q?e=el8jsT) (Coursera)
 * [Learning Data Analytics: 1 Foundations](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1V-rqBkVuLY876oA?e=OE45f0) (LinkedIn)
 * [Build Your Analytical Skills with Statistical Analysis](https://www.linkedin.com/learning/paths/build-your-analytical-skills-with-statistical-analysis) (LinkedIn)
+* [Introduction to R](https://1drv.ms/b/s!Aj0Pe7UARYAvgc07JGTYtEm7N6aBsQ?e=YTs4Eu) (DataCamp)
 * [Meta Social Media Marketing Specialization](https://1drv.ms/b/s!Aj0Pe7UARYAvgc0_G9rpN5_7DljUJg?e=6WI4Vn) (Coursera)
 
 ## Contacts
