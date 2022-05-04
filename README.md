@@ -25,17 +25,6 @@ This is a repository to showcase skills, share projects and track my progress.
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses.
 
 ## Certificates
-### In progress: 
-  * Modern Big Data Analysis with SQL Specialization (Coursera)
-  * CS50's Introduction to Programming with Python (HarvardX CS50P)
-  * Python for Everybody Specialization (Coursera)
-    * [Programming for Everybody (Getting Started with Python)](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1Erj8wd8rs9wljzA?e=BQQ4vc) (Coursera)
-    * [Python Data Structures](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1LcXq7BiSZ465PKw?e=2upSMc) (Coursera)
-  * 100 Days of Code: The Complete Python Pro Bootcamp for 2022 (Udemy)
-  * PostgreSQL for Everybody Specialization (Coursera)
-  * Applied Data Science Lab (WorldQuant University)
-  * Essential English for Business Professionals Specialization (Coursera)
-  * Google Project Management: Professional Certificate (Coursera)
 ### Finished:
 * [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5UQRJZLUAFUL) (Coursera)
   * [Foundations: Data, Data, Everywhere](https://1drv.ms/b/s!Aj0Pe7UARYAvgc094kBm1yJ-z7KMmw?e=7WZHxO) (Coursera)
@@ -50,6 +39,17 @@ In this section I will provide links to my github repositories containing code a
 * [Build Your Analytical Skills with Statistical Analysis](https://www.linkedin.com/learning/paths/build-your-analytical-skills-with-statistical-analysis) (LinkedIn)
 * [Introduction to R](https://1drv.ms/b/s!Aj0Pe7UARYAvgc07JGTYtEm7N6aBsQ?e=YTs4Eu) (DataCamp)
 * [Meta Social Media Marketing Specialization](https://1drv.ms/b/s!Aj0Pe7UARYAvgc0_G9rpN5_7DljUJg?e=6WI4Vn) (Coursera)
+### In progress: 
+* Modern Big Data Analysis with SQL Specialization (Coursera)
+* CS50's Introduction to Programming with Python (HarvardX CS50P)
+* Python for Everybody Specialization (Coursera)
+ * [Programming for Everybody (Getting Started with Python)](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1Erj8wd8rs9wljzA?e=BQQ4vc) (Coursera)
+ * [Python Data Structures](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1LcXq7BiSZ465PKw?e=2upSMc) (Coursera)
+* 100 Days of Code: The Complete Python Pro Bootcamp for 2022 (Udemy)
+* PostgreSQL for Everybody Specialization (Coursera)
+* Applied Data Science Lab (WorldQuant University)
+* Essential English for Business Professionals Specialization (Coursera)
+* Google Project Management: Professional Certificate (Coursera)
 
 ## Contacts
 * Linkedin: [@mdohnal](https://www.linkedin.com/in/mdohnal/)
