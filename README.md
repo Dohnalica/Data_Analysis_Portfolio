@@ -3,6 +3,7 @@
 ## About
 
 Hi, I'm Martina!👋
+
 I have a Master's degree in Economics (mag. oec.) and for the last 15 years, I've been working in financial management and implementation of European projects as an EU projects finance officer in a State-owned enterprise.
 
 For the last 2 years, I'm thinking about making a career change to Data Analytics and I decided this 2022. is going to be the year when I'm finally going to do it.
