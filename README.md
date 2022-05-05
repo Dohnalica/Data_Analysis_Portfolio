@@ -24,6 +24,7 @@ This is a repository to showcase skills, share projects and track my progress.
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses.
 
+
 ## Certificates
 ### Finished:
 * [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5UQRJZLUAFUL) (Coursera)
