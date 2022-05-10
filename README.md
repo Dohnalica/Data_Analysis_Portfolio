@@ -37,6 +37,7 @@ In this section I will provide links to my github repositories containing code a
 * Python for Everybody Specialization (Coursera)
   * [Programming for Everybody (Getting Started with Python)](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1Erj8wd8rs9wljzA?e=BQQ4vc) (Coursera)
   * [Python Data Structures](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1LcXq7BiSZ465PKw?e=2upSMc) (Coursera)
+  * [Using Python to Access Web Data](https://1drv.ms/b/s!Aj0Pe7UARYAvge8PH7q3hPDW7nNkGA?e=YCMPA2) (Coursera)
 * 100 Days of Code: The Complete Python Pro Bootcamp for 2022 (Udemy)
 * PostgreSQL for Everybody Specialization (Coursera)
 * Applied Data Science Lab (WorldQuant University)
