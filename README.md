@@ -26,7 +26,7 @@ In this section I will provide links to my github repositories containing code a
   * [Data Analysis with R Programming](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1ChjxwMUMM16I2vg?e=YL5hUI) (Coursera)
   * [Share Data Through the Art of Visualization](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1Ks19L13-berfEzA?e=kzMSSo) (Coursera)
   * [Ask Questions to Make Data-Driven Decisions](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1FUrm8_9RavMiL3g?e=wJ5c3v) (Coursera)
-* [Python for Everybody Specialization](https://1drv.ms/b/s!Aj0Pe7UARYAvgfIsR3c6sLhS78SKZw?e=R9crfB)(Coursera)
+* [Python for Everybody Specialization](https://1drv.ms/b/s!Aj0Pe7UARYAvgfIsR3c6sLhS78SKZw?e=R9crfB) (Coursera)
   * [Programming for Everybody (Getting Started with Python)](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1Erj8wd8rs9wljzA?e=BQQ4vc) (Coursera)
   * [Python Data Structures](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1LcXq7BiSZ465PKw?e=2upSMc) (Coursera)
   * [Using Python to Access Web Data](https://1drv.ms/b/s!Aj0Pe7UARYAvge8PH7q3hPDW7nNkGA?e=YCMPA2) (Coursera)
