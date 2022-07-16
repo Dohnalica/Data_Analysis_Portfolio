@@ -18,13 +18,13 @@ In this section I will list data analytics projects briefly describing the techn
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses.
 
 ### [Analyzing Cryptocurrency Prices Using Python](https://github.com/MartinaDohnal/Various_Projects/tree/main/Cryptocurrency%20Prices)
-**Description**: This is the Capstone Project from the Python for Data Visualization guided project on Coursera where I analyzed cryptocurrency prices and returns such as Bitcoin (BTC), Ethereum (ETH, Litecoin (LTC), Cardano (ADA), and Ripple (XRP).<br> 
+**Description**: This is the Capstone Project from the <i>Python for Data Visualization</i> guided project on Coursera where I analyzed cryptocurrency prices and returns such as Bitcoin (BTC), Ethereum (ETH, Litecoin (LTC), Cardano (ADA), and Ripple (XRP).<br> 
 **Skills**: Data analysis, data visualization<br> 
 **Technology**: Jupyter Notebook, Python; Pandas, NumPy, Matplotlib, Seaborn<br> 
 **Results**: Visualizing crypto daily prices and returns
 
 ### [Analyzing Stock Prices Using Python](https://github.com/MartinaDohnal/Various_Projects/tree/main/Stock%20Data)
-**Description**: Working files from the Python for Data Visualization Guided Project from Coursera<br> 
+**Description**: Working files from the <i>Python for Data Visualization</i> Guided Project from Coursera<br> 
 **Skills**: Data analysis, data visualization<br> 
 **Technology**: Jupyter Notebook, Python; NumPy, Matplotlib, Pandas, Seaborn<br> 
 **Results**: Visualizing stock daily prices and returns
