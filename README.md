@@ -20,7 +20,7 @@ In this section I will provide links to my github repositories containing code a
 ### [Analyzing Cryptocurrency Prices Using Python](https://github.com/MartinaDohnal/Various_Projects/tree/main/Cryptocurrency%20Prices)
 **Description**: This is the Capstone Project from the Python for Data Visualization guided project on Coursera where I analyzed cryptocurrency prices and returns such as Bitcoin (BTC), Ethereum (ETH, Litecoin (LTC), Cardano (ADA), and Ripple (XRP).<br> 
 **Skills**: Data analysis, data visualization<br> 
-**Technology**: Jupyter Notebook, Python; Pandas, NumPy, Matplotlib, Seaborn<br>  
+**Technology**: Jupyter Notebook, Python; Pandas, NumPy, Matplotlib, Seaborn<br> 
 **Results**: Visualizing crypto daily prices and returns
 
 ### [Analyzing Stock Prices Using Python](https://github.com/MartinaDohnal/Various_Projects/tree/main/Stock%20Data)
