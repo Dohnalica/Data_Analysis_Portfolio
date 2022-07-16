@@ -19,15 +19,21 @@ In this section I will provide links to my github repositories containing code a
 
 ### [Analyzing Cryptocurrency Prices Using Python](https://github.com/MartinaDohnal/Various_Projects/tree/main/Cryptocurrency%20Prices)
 **Description**: This is the Capstone Project from the Python for Data Visualization guided project on Coursera where I analyzed cryptocurrency prices and returns such as Bitcoin (BTC), Ethereum (ETH, Litecoin (LTC), Cardano (ADA), and Ripple (XRP).   
-**Skills**: Data analysis, data visualization.  
-**Technology**: Jupyter Notebook, Python; Pandas, NumPy, Matplotlib.  
+**Skills**: Data analysis, data visualization
+**Technology**: Jupyter Notebook, Python; Pandas, NumPy, Matplotlib, Seaborn 
 **Results**: Visualizing crypto daily prices and returns
+
+### [Analyzing Stock Prices Using Python](https://github.com/MartinaDohnal/Various_Projects/tree/main/Stock%20Data)
+**Description**: Working files from the Python for Data Visualization Guided Project from Coursera
+**Skills**: Data analysis, data visualization
+**Technology**: Jupyter Notebook, Python; NumPy, Matplotlib, Pandas, Seaborn
+**Results**: Visualizing stock daily prices and returns
 
 ### [COVID-19 Data Visualization Using Python](https://github.com/MartinaDohnal/Various_Projects/tree/main/COVID-19)
 **Description**: Using COVID-19 dataset to answer the question does COVID-19 national lockdown and self-isolations in Austria have actually impact on COVID19 transmission.
-**Skills**: Data cleaning, data analysis, data visualization.  
-**Technology**: Jupyter Notebook, Python; Pandas, NumPy, Plotly, Matplotlib.  
-**Results**: Visualizing the impact of the national lockdown in Austria. 
+**Skills**: Data cleaning, data analysis, data visualization  
+**Technology**: Jupyter Notebook, Python; Pandas, NumPy, Plotly, Matplotlib 
+**Results**: Visualizing the impact of the national lockdown in Austria 
 
 ## Certificates
 ### Finished:
