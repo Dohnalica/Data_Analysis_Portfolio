@@ -17,11 +17,17 @@ In this section I will list data analytics projects briefly describing the techn
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses.
 
-### [COVID-19 Data Visualization Using Python](https://github.com/MartinaDohnal/Various_Projects/tree/main/COVID-19)
+### [Analyzing Cryptocurrency Prices Using Python](https://github.com/MartinaDohnal/Various_Projects/tree/main/Cryptocurrency%20Prices)
 **Description**: Using COVID-19 dataset to answer the question does COVID-19 national lockdown and self-isolations in Austria have actually impact on COVID19 transmission.   
 **Skills**: Data cleaning, data analysis, data visualization.  
 **Technology**: Jupyter Notebook, Python; Pandas, NumPy, Plotly, Matplotlib.  
-**Results**: Visualizing the impact of the national lockdown in Austria.  
+**Results**: Visualizing the impact of the national lockdown in Austria. 
+
+### [COVID-19 Data Visualization Using Python](https://github.com/MartinaDohnal/Various_Projects/tree/main/COVID-19)
+**Description**:This is the Capstone Project from the Python for Data Visualization guided project on Coursera where I will analyze cryptocurrency prices such as Bitcoin (BTC), Ethereum (ETH, Litecoin (LTC), Cardano (ADA), and Ripple (XRP).  
+**Skills**: Data visualization.  
+**Technology**: Jupyter Notebook, Python; Pandas, NumPy, Matplotlib.  
+**Results**: Visualizing crypto daily prices and returns
 
 ## Certificates
 ### Finished:
@@ -39,6 +45,11 @@ In this section I will provide links to my github repositories containing code a
   * [Using Python to Access Web Data](https://1drv.ms/b/s!Aj0Pe7UARYAvge8PH7q3hPDW7nNkGA?e=YCMPA2) (Coursera)
   * [Using Databases with Python](https://1drv.ms/b/s!Aj0Pe7UARYAvgfItGyWQ695mexMIMg?e=WDBDgr) (Coursera)
   * [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://1drv.ms/b/s!Aj0Pe7UARYAvgfIxyd8kKx3pXitSoA?e=g1SBHO) (Coursera)
+* [Excel Skills for Data Analytics and Visualization Specialization](https://1drv.ms/b/s!Aj0Pe7UARYAvgfskG8SX4ZURtd2bhg?e=a8bkPv)
+  * [Excel Fundamentals for Data Analysis](https://1drv.ms/b/s!Aj0Pe7UARYAvgfc3o6alLLt7pI3Z6w?e=oBsU7J)
+  * [Data Visualization in Excel](https://1drv.ms/b/s!Aj0Pe7UARYAvgflVOGA7T1z6lDojOA?e=EWoScI)
+  * [Excel Power Tools for Data Analysis](https://1drv.ms/b/s!Aj0Pe7UARYAvgfsnHZ0jWmkRZu5--Q?e=c2enIP)
+* [Python for Data Visualization:Matplotlib & Seaborn(Enhanced)](https://1drv.ms/b/s!Aj0Pe7UARYAvgftZwDkirG4plYRBZg?e=8JiV0c)
 * [Exploratory Data Analysis in R](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1QnXWb2gjBFdNt3Q?e=el8jsT) (Coursera)
 * [Learning Data Analytics: 1 Foundations](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1V-rqBkVuLY876oA?e=OE45f0) (LinkedIn)
 * [Build Your Analytical Skills with Statistical Analysis](https://www.linkedin.com/learning/paths/build-your-analytical-skills-with-statistical-analysis) (LinkedIn)
