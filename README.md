@@ -61,6 +61,7 @@ In this section I will provide links to my github repositories containing code a
   * [Data Visualization in Excel](https://1drv.ms/b/s!Aj0Pe7UARYAvgflVOGA7T1z6lDojOA?e=EWoScI)
   * [Excel Power Tools for Data Analysis](https://1drv.ms/b/s!Aj0Pe7UARYAvgfsnHZ0jWmkRZu5--Q?e=c2enIP)
 * [Python for Data Visualization:Matplotlib & Seaborn(Enhanced)](https://1drv.ms/b/s!Aj0Pe7UARYAvgftZwDkirG4plYRBZg?e=8JiV0c)
+* [Mastering Data Analysis with Pandas](https://1drv.ms/b/s!Aj0Pe7UARYAvgfxSmZJekUtZedyoiQ?e=ImUGkJ)
 * [Exploratory Data Analysis in R](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1QnXWb2gjBFdNt3Q?e=el8jsT) (Coursera)
 * [Learning Data Analytics: 1 Foundations](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1V-rqBkVuLY876oA?e=OE45f0) (LinkedIn)
 * [Build Your Analytical Skills with Statistical Analysis](https://www.linkedin.com/learning/paths/build-your-analytical-skills-with-statistical-analysis) (LinkedIn)
