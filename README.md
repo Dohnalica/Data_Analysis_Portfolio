@@ -35,6 +35,11 @@ In this section I will provide links to my github repositories containing code a
 **Technology**: Jupyter Notebook, Python; Pandas, NumPy, Plotly, Matplotlib <br> 
 **Results**: Visualizing the impact of the national lockdown in Austria  
 
+### [Working with Pandas](https://github.com/MartinaDohnal/Various_Projects/tree/main/Pandas)
+**Description**: Various Projects in Which I learned working with Pandas<br> 
+**Skills**: Data analysis and manipulation with Pandas and Python  <br> 
+**Technology**: Jupyter Notebook, Python; Pandas<br> 
+
 ## Certificates
 ### Finished:
 * [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5UQRJZLUAFUL) (Coursera)
