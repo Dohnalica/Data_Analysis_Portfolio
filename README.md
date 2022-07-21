@@ -36,7 +36,7 @@ In this section I will provide links to my github repositories containing code a
 **Results**: Visualizing the impact of the national lockdown in Austria  
 
 ### [Working with Pandas](https://github.com/MartinaDohnal/Various_Projects/tree/main/Pandas)
-**Description**: Various Projects in Which I learned working with Pandas<br> 
+**Description**: Various Projects in which I learned working with Pandas<br> 
 **Skills**: Data analysis and manipulation with Pandas and Python  <br> 
 **Technology**: Jupyter Notebook, Python; Pandas<br> 
 
