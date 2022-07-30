@@ -68,13 +68,13 @@ In this section I will provide links to my github repositories containing code a
 * [Introduction to R](https://1drv.ms/b/s!Aj0Pe7UARYAvgc07JGTYtEm7N6aBsQ?e=YTs4Eu) (DataCamp)
 * [Meta Social Media Marketing Specialization](https://1drv.ms/b/s!Aj0Pe7UARYAvgc0_G9rpN5_7DljUJg?e=6WI4Vn) (Coursera)
 ### In progress: 
+* Business Analytics Specialization (Coursera) 
 * Modern Big Data Analysis with SQL Specialization (Coursera)
+•	Business Analytics Specialization (Coursera)
 * CS50's Introduction to Programming with Python (HarvardX CS50P)
 * 100 Days of Code: The Complete Python Pro Bootcamp for 2022 (Udemy)
-* PostgreSQL for Everybody Specialization (Coursera)
-* Applied Data Science Lab (WorldQuant University)
 * Essential English for Business Professionals Specialization (Coursera)
-* Google Project Management: Professional Certificate (Coursera)
+
 
 ## Contacts
 * Linkedin: [@mdohnal](https://www.linkedin.com/in/mdohnal/)
