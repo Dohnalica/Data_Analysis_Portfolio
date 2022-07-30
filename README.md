@@ -77,6 +77,6 @@ In this section I will provide links to my github repositories containing code a
 
 
 ## Contacts
-* Linkedin: [@mdohnal](https://www.linkedin.com/in/mdohnal/)
+* Linkedin: [@martinadohnal](https://www.linkedin.com/in/martinadohnal)
 * Twitter: [@martina_dohnal](https://twitter.com/dohnalica)
 * E-mail: dohnal.martina@gmail.com
