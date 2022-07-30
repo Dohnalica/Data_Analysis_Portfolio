@@ -67,6 +67,7 @@ In this section I will provide links to my github repositories containing code a
 * [Build Your Analytical Skills with Statistical Analysis](https://www.linkedin.com/learning/paths/build-your-analytical-skills-with-statistical-analysis) (LinkedIn)
 * [Introduction to R](https://1drv.ms/b/s!Aj0Pe7UARYAvgc07JGTYtEm7N6aBsQ?e=YTs4Eu) (DataCamp)
 * [Meta Social Media Marketing Specialization](https://1drv.ms/b/s!Aj0Pe7UARYAvgc0_G9rpN5_7DljUJg?e=6WI4Vn) (Coursera)
+
 ### In progress: 
 * Business Analytics Specialization (Coursera) 
 * Modern Big Data Analysis with SQL Specialization (Coursera)
