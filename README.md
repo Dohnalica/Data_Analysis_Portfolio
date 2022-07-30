@@ -71,7 +71,6 @@ In this section I will provide links to my github repositories containing code a
 ### In progress: 
 * Business Analytics Specialization (Coursera) 
 * Modern Big Data Analysis with SQL Specialization (Coursera)
-•	Business Analytics Specialization (Coursera)
 * CS50's Introduction to Programming with Python (HarvardX CS50P)
 * 100 Days of Code: The Complete Python Pro Bootcamp for 2022 (Udemy)
 * Essential English for Business Professionals Specialization (Coursera)
