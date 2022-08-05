@@ -6,8 +6,7 @@ Hi, I'm Martina! 👋
 I'm trying to break into data analytics so this is a repository to showcase my skills, share projects and track my progress.
 
 ## Table of contents
-* Portfolio Projects
-* Study Projects
+* Portfolio and Study Projects
 * Certificates
 * Contacts
 
@@ -57,6 +56,7 @@ In this section I will list data analytics projects briefly describing the techn
   * [Excel Fundamentals for Data Analysis](https://1drv.ms/b/s!Aj0Pe7UARYAvgfc3o6alLLt7pI3Z6w?e=oBsU7J) (Coursera)
   * [Data Visualization in Excel](https://1drv.ms/b/s!Aj0Pe7UARYAvgflVOGA7T1z6lDojOA?e=EWoScI) (Coursera)
   * [Excel Power Tools for Data Analysis](https://1drv.ms/b/s!Aj0Pe7UARYAvgfsnHZ0jWmkRZu5--Q?e=c2enIP) (Coursera)
+* [Complete SQL Mastery](https://1drv.ms/b/s!Aj0Pe7UARYAvg7t_Ju-LwT4f-IuqRw?e=DTNpGF) (Coding with Mosh)
 * [Python for Data Visualization:Matplotlib & Seaborn(Enhanced)](https://1drv.ms/b/s!Aj0Pe7UARYAvgftZwDkirG4plYRBZg?e=8JiV0c) Coursera)
 * [Mastering Data Analysis with Pandas](https://1drv.ms/b/s!Aj0Pe7UARYAvgfxSmZJekUtZedyoiQ?e=ImUGkJ) (Coursera)
 * [Exploratory Data Analysis in R](https://1drv.ms/b/s!Aj0Pe7UARYAvgc1QnXWb2gjBFdNt3Q?e=el8jsT) (Coursera)
