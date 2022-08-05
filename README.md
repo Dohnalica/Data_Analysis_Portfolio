@@ -11,11 +11,8 @@ I'm trying to break into data analytics so this is a repository to showcase my s
 * Certificates
 * Contacts
 
-## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-
-## Study Projects
-In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses.
+## Portfolio and Study Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases and provide links to my github repositories containing code and jupyter notebooks I created while passing online courses.
 
 ### [Analyzing Cryptocurrency Prices Using Python](https://github.com/MartinaDohnal/Various_Projects/tree/main/Cryptocurrency%20Prices)
 **Description**: This is the Capstone Project from the <i>Python for Data Visualization</i> guided project on Coursera where I analyzed cryptocurrency prices and returns such as Bitcoin (BTC), Ethereum (ETH, Litecoin (LTC), Cardano (ADA), and Ripple (XRP).<br> 
