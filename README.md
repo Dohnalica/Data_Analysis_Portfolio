@@ -15,8 +15,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### [Analysing Customers Table with SQL](https://github.com/MartinaDohnal/Various_Projects/tree/main/Cryptocurrency%20Prices)
 **Description**: Analysing <i>Customers</i> Table<br>
-**Skills**: Data analysis<br> 
-**Technology**: SQL<br> 
+**Skills**: SQL<br> 
+**Technology**: MySQL<br> 
 
 ### [Analyzing Cryptocurrency Prices Using Python](https://github.com/MartinaDohnal/Various_Projects/tree/main/Cryptocurrency%20Prices)
 **Description**: This is the Capstone Project from the <i>Python for Data Visualization</i> guided project on Coursera where I analyzed cryptocurrency prices and returns such as Bitcoin (BTC), Ethereum (ETH, Litecoin (LTC), Cardano (ADA), and Ripple (XRP).<br> 
