@@ -13,7 +13,7 @@ I'm trying to break into data analytics so this is a repository to showcase my s
 ## Portfolio and Study Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases and provide links to my github repositories containing code and jupyter notebooks I created while passing online courses.
 
-### [Analysing Customers Table with SQL](https://github.com/MartinaDohnal/Various_Projects/tree/main/Cryptocurrency%20Prices)
+### [Analysing Customers Table with SQL](https://github.com/MartinaDohnal/Various_Projects/tree/main/SQL)
 **Description**: Analysing <i>Customers</i> Table<br>
 **Skills**: SQL<br> 
 **Technology**: MySQL<br> 
